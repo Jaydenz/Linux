@@ -3,6 +3,7 @@ echo '============================'
 echo 'LNMP Auot Install Script'
 echo 'Author:Jaydenz'
 echo 'Bolg:https://www.jaydenz.cn/'
+echo 'Version 0.3_beta'
 echo '============================'
 
 #安装前准备及读取系统信息
